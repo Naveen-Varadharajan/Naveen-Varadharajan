@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Naveen-Varadharajan
+- 👀 I’m interested in Programing & Web Development
+- 🌱 I’m currently learning Frontend & Backend Technologies
+- 🚀 Passionate about building user friendly and visually appealing digital experience 
