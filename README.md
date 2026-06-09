@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Naveen-Varadharajan
 - 👀 I’m Interested in Artificial Intelligence, Data Science & Machine Learning
-- 🌱 I’m currently learning Ai & Data Technologies and improving my technical skills
+- 🌱 Passionate about AI, Data Technologies, and Web Development, with a focus on continuous learning
